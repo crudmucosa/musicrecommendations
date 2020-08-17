@@ -13,7 +13,7 @@
 - [Judas Priest - Painkiller](https://open.spotify.com/album/7LgrhuKnAXpNEv8qzcVd2t) : A powerful Thrash/Speed Metal album that was the last one that the voice of Judas Priest (Rob Halford) helmed until the early 2000's. Catchy hooks and pure power. Rousing and inspirational throughout.
 - [Nighwish - Once](https://open.spotify.com/album/0aDCpYtFdQ0S8C3oAtOonk) : Setting the standard for epic, Symphonic Metal, this album is full of dark drama and majesty. It has many layers but is imminently accessible.
 ## Drum & Bass
-- []() :
+- [Public Enemy - Fear of a Black Planet]() :
 - []() :
 - []() :
 - []() :
