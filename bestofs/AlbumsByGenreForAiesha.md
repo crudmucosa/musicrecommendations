@@ -1,7 +1,7 @@
 # Albums Best Of By Genre
 ## Indie Rock
 - [Sonic Youth - Dirty](https://open.spotify.com/album/05Zo2yt4reflRVNXFOYxDD) : Noise Rock darlings who were also massively influential to many Indie genres and subgenres. This is one of their best albums that stays accessible/listenable while still keeping to their noise roots.
-- []() :
+- [Savages - Silence Yourself](https://open.spotify.com/album/6LjrpgYliBD7FA670n4l31) : Dark post-punk filled with power, passion, and persistence. This debut release set the world on fire and it continues to burn.
 - []() :
 - []() :
 - []() :
@@ -55,6 +55,18 @@
 - []() :
 - []() :
 ## Folk/World/International
+- [Carolina Chocolate Drops]() :
+- []() :
+- []() :
+- []() :
+- []() :
+## Blues
+- []() :
+- []() :
+- []() :
+- []() :
+- []() :
+## Jazz
 - []() :
 - []() :
 - []() :
